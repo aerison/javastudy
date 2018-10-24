@@ -1,0 +1,14 @@
+package day06;
+
+public class Var {
+
+	String name="000";
+	int number=99;
+	
+	public void print() {
+		int n = 0;
+		System.out.println(name);
+		System.out.println(n);
+	}
+
+}

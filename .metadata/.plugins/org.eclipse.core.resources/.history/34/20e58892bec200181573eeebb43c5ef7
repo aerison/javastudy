@@ -1,0 +1,11 @@
+package day06;
+
+public class ex01 {
+
+	public static void main(String[] args) {
+		Account a1 = new Account();
+		a1.print();
+
+	}
+
+}

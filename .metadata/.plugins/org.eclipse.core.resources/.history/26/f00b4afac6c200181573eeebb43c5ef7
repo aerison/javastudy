@@ -1,0 +1,18 @@
+package day06;
+
+public class Account {
+		
+		String number; //public 을 붙이면 완전히 오픈된 무보안 권한이 됨
+		String name;
+		int money;
+		
+		//입금하다
+		
+		//출금하다
+		
+		//조회
+		public void print() {
+			System.out.printf("[계좌번호 %s ( %s ) %d 원]\n",number,name,money);
+		}
+
+	}

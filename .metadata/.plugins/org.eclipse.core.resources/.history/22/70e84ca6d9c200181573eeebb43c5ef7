@@ -1,0 +1,11 @@
+package day06;
+
+public class ex02 {
+	
+	public static void main(String[] grgs) {
+		Var v = null;
+		System.out.println(Var.number);
+		System.out.println(v.name);
+	}
+
+}
